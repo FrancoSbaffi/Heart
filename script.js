@@ -134,13 +134,16 @@ var ParticlePool = (function () {
   return ParticlePool;
 })();
 
+
+
 (function (canvas) {
   var audio = document.getElementById("myAudio");
   audio.play();
   var context = canvas.getContext("2d"),
-    particles = new ParticlePool(settings.particles.length),
-    particleRate = settings.particles.length / settings.particles.duration,
-    time;
+  particles = new ParticlePool(settings.particles.length),
+  particleRate = settings.particles.length / settings.particles.duration,
+  time;
+
 
     var context = canvas.getContext("2d"),
     particles = new ParticlePool(settings.particles.length),
