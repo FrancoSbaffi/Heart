@@ -1,5 +1,7 @@
 
-### Made with Javascript.
+<p align="center">
+  Made with Javascript.
+</p>
 
 <br>
 
