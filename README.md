@@ -1,1 +1,2 @@
-![image](https://github.com/FrancoSbaffi/Heart/assets/99909205/3166b26d-1e30-4756-abac-2b508eef1a37)
+![image](https://github.com/FrancoSbaffi/Heart/assets/99909205/da9c73f7-e178-4834-a405-33a7c2119295)
+
